@@ -36,6 +36,7 @@ Techniques :  `Python`, `ML`, `DL`
 <br/>
 
 <img align="left" height="80px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/7012da5a-3517-4d07-87e3-0747772f0720"/>
+
 SKKU Technometrics Lab \
 (Lab Intern) 2023. 10. 01 ~ Ongoing \
 Techniques :  `Python`, `NLP`, `LLM` 
