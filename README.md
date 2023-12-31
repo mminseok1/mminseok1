@@ -20,7 +20,7 @@ Techniques :  `Python`, `ML`, `NLP`  \
 <img align="left" height="140px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/82b15e7c-662e-442d-999e-10243f4ba978"/>
 
 SKKU Quality Lab \
-(Undergraduate Researcher) 2022.12.01 ~ 2023.09.01 \
+(UndergraduateResearcher) 2022.12.01 ~ 2023.09.01 \
 Techniques :  `Python`, `Generative Model`, `DL` \
 <br/>
 <br/>
