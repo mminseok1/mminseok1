@@ -35,7 +35,7 @@ Techniques :  `Python`, `ML`, `DL`
 <br/>
 <br/>
 
-<img align="left" height="80px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/2b7b0655-a8a4-4cc2-8d76-e5eedb8d08e0"/>
+<img align="left" height="80px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/7cfbf59e-d69f-4404-acac-b92e7b05e660"/>
 
 SKKU Technometrics Lab \
 (Lab Intern) 2023. 10. 01 ~ Ongoing \
@@ -47,7 +47,7 @@ Techniques :  `Python`, `NLP`, `LLM`
 <img align="left" height="80px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/2b7b0655-a8a4-4cc2-8d76-e5eedb8d08e0"/>
 
 KAIST Date Science & Aritificial Intelligence Lab(DSAIL)\
-(Lab Intern) 2023. 10. 01 ~ Ongoing \
+(Lab Intern) 2023. 12. 26 ~ Ongoing \
 Techniques :  `Python`, `GNN`, `Recommend System` 
 <br/>
 <br/>
