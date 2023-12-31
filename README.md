@@ -9,7 +9,7 @@
 ### Experience
 In the overview below you will find past experiences or ongoing experiences:
 
-<img align="left" height="114px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/b63e213e-72a6-48aa-a748-8008fe04db58"/>
+<img align="left" height="114px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/5a3319cf-78eb-4d05-84b6-4ed06cbe3bfd"/>
 
 Samsung Electronics\
 (Intern) 2023. 03. 06 ~ 2023. 06. 23 \
