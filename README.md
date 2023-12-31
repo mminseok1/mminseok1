@@ -25,7 +25,7 @@ Techniques :  `Python`, `ML`, `DL` \
 <br/>
 <br/>
 
-<img align="left" height="114px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/0685aa86-7433-43dd-86c6-088f8a82e9f0"/>
+<img align="left" height="114px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/2b7b0655-a8a4-4cc2-8d76-e5eedb8d08e0"/>
 
 SK Telecom Fly Ai \
 (Trainee) 2023. 06. 26 ~ 2023.08.22 \
