@@ -30,7 +30,7 @@ Techniques :  `Python`, `Generative Model`, `DL` \
 
 SK Telecom Fly Ai \
 (Trainee) 2023. 06. 26 ~ 2023.08.25 \
-Techniques :  `Python`, `ML`, `DL` 
+Techniques :  `Python`, `ML`, `Flask` 
 <br/>
 <br/>
 <br/>
@@ -48,7 +48,7 @@ Techniques :  `Python`, `NLP`, `LLM`
 
 KAIST Date Science & Aritificial Intelligence Lab(DSAIL)\
 (Lab Intern) 2023. 12. 26 ~ Ongoing \
-Techniques :  `Python`, `GNN`, `Recommend System` 
+Techniques :  `Python`, `GNN`, `Recommender System` 
 <br/>
 <br/>
 <br/>
