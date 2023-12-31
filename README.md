@@ -11,7 +11,7 @@ In the overview below you will find past experiences or ongoing experiences:
 
 <img align="left" height="90px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/4b30dba8-4b62-45ca-8421-a9edd9c671dd"/>
 
-Samsung Electronics\
+Samsung Electronics DS\
 (Intern) 2023. 03. 06 ~ 2023. 06. 23 \
 Techniques :  `Python`, `ML`, `NLP`  \
 <br/>
@@ -20,7 +20,7 @@ Techniques :  `Python`, `ML`, `NLP`  \
 <img align="left" height="140px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/82b15e7c-662e-442d-999e-10243f4ba978"/>
 
 SKKU Quality Lab \
-(Undergraduate Student) 2022.12.01 ~ 2023.08.01 \
+(Undergraduate Student) 2022.12.01 ~ 2023.09.01 \
 Techniques :  `Python`, `ML`, `DL` \
 <br/>
 <br/>
@@ -29,7 +29,7 @@ Techniques :  `Python`, `ML`, `DL` \
 <img align="left" height="80px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/2b7b0655-a8a4-4cc2-8d76-e5eedb8d08e0"/>
 
 SK Telecom Fly Ai \
-(Trainee) 2023. 06. 26 ~ 2023.08.22 \
+(Trainee) 2023. 06. 26 ~ 2023.08.25 \
 Techniques :  `Python`, `ML`, `DL` 
 <br/>
 <br/>
