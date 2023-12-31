@@ -9,7 +9,7 @@
 ### Experience
 In the overview below you will find past experiences or ongoing experiences:
 
-<img align="left" height="80px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/4b30dba8-4b62-45ca-8421-a9edd9c671dd"/>
+<img align="left" height="90px" width="180px" src="https://github.com/mminseok1/mminseok1/assets/123230900/4b30dba8-4b62-45ca-8421-a9edd9c671dd"/>
 
 Samsung Electronics\
 (Intern) 2023. 03. 06 ~ 2023. 06. 23 \
@@ -22,6 +22,7 @@ Techniques :  `Python`, `ML`, `NLP`  \
 SKKU Quality Lab \
 (Undergraduate Student) 2022.12.01 ~ 2023.08.01 \
 Techniques :  `Python`, `ML`, `DL` \
+<br/>
 <br/>
 <br/>
 
